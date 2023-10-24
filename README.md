@@ -3,7 +3,7 @@ Bicycle signage in Sydney map - blog post draft
 
 ![Bicycle sign map as of 2023-10-25](cos-bicycle-signs-2023-10-25.jpg)
 
-Map link: https://overpass-turbo.eu/s/1CpT
+Map link: <a href="https://overpass-turbo.eu/s/1CpV">https://overpass-turbo.eu/s/1CpV</a>
 
 - This page is a work in progress
 - There currently isn't any public datasets on bicycle wayfinding infrastructure in Sydney
@@ -12,6 +12,8 @@ Map link: https://overpass-turbo.eu/s/1CpT
 - I've started surveying wayfinding signage in the City of Sydney
 - It's incomplete, but I hope this resource helps others with the correct tagging
 
+![example_destination_sign](example_destination_sign.jpg)
+![example_information_guidepost](example_information_guidepost.jpg)
 
 # Overpass Turbo query
 
